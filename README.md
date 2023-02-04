@@ -7,7 +7,7 @@
 - 💬 Ask me about anything related to coding
 - 📫 How to reach me: my email, or [hire me via Upwork](https://www.upwork.com/freelancers/~01f03e22fefdfb7f2a)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatnazali&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatnazali&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rahmatnazali/rahmatnazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
