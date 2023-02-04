@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋😀
+
+- 🔭 I’m currently working on [pimage](https://github.com/rahmatnazali/pimage) and [rustrawi](https://github.com/rahmatnazali/rustrawi)
+- 🌱 I’m currently learning: Rust, DevOps
+- 🎯 Short-term goal: Resign from my on-site job, take a full-time remote job and and contribute to FOSS!
+- ⚡ Fun fact: I like to spend my spare time building water-cooled SFF PC and playing with PCP air gun
+- 💬 Ask me about anything related to coding
+- 📫 How to reach me: my email, or [hire me via Upwork](https://www.upwork.com/freelancers/~01f03e22fefdfb7f2a)
 
 <!--
 **rahmatnazali/rahmatnazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+
