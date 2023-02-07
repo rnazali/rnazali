@@ -8,7 +8,7 @@
 - 📫 Reach me by [email](mailto:rahmatnazali95@gmail.com) or hire me via [Upwork](https://www.upwork.com/freelancers/~01f03e22fefdfb7f2a)
 - ❤️ Consider [sponsoring me](https://github.com/sponsors/rahmatnazali) so I can keep doing what I like
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatnazali&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rahmatnazali)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **rahmatnazali/rahmatnazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rahmatnazali&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
