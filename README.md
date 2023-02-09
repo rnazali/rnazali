@@ -12,7 +12,7 @@
 
 <!--
 
-Hey you found me!
+Hey, you found me!
 This is just a section to experiment with my template.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rahmatnazali)](https://github.com/LordDashMe/github-contribution-stats/)
